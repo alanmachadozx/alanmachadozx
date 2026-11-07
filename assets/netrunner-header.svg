@@ -28,18 +28,14 @@
  <text x="0" y="104" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="900" letter-spacing="4" fill="#ff0055" opacity=".26" filter="url(#glow)">ALAN MACHADO</text>
  <text x="0" y="104" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="900" letter-spacing="4" fill="#ff0055">ALAN MACHADO</text>
  <rect x="0" y="119" width="650" height="3" fill="url(#red)"/>
- <text x="0" y="154" font-family="monospace" font-size="17" letter-spacing="2.5" fill="#ff3d79">SOFTWARE ENGINEER  /  PYTHON  /  C++</text>
- <text x="0" y="185" font-family="monospace" font-size="13" letter-spacing="2" fill="#21dce6">&gt; voice systems  //  NLP  //  intent classification</text>
+ <text x="0" y="154" font-family="monospace" font-size="17" letter-spacing="2.5" fill="#ff3d79">SOFTWARE DEVELOPER  /  PYTHON  /  C++</text>
 </g>
 <g transform="translate(933,86)" font-family="monospace">
- <rect width="229" height="166" fill="#16040c" stroke="#a00038"/>
+ <rect width="229" height="126" fill="#16040c" stroke="#a00038"/>
  <path d="M0 0h229v31H0Z" fill="#ab003a"/>
  <text x="13" y="20" font-size="13" fill="#07060a" font-weight="700" letter-spacing="2">PERSONNEL FILE</text>
  <text x="12" y="54" font-size="12" fill="#ff0055">[ OK ] ID VERIFIED</text>
  <text x="12" y="79" font-size="12" fill="#ff0055">[ OK ] C++ / PYTHON</text>
  <text x="12" y="104" font-size="12" fill="#21dce6">[ ON ] ONE ASSIST</text>
- <text x="12" y="129" font-size="12" fill="#ff0055">[ 01 ] NET ACCESS</text>
- <path d="M12 146H217" stroke="#a00038"/>
- <text x="12" y="159" font-size="8" fill="#a00038" letter-spacing="1">SYSTEM TRACE / 20:77</text>
 </g>
 </svg>
