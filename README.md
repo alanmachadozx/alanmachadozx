@@ -1,97 +1,64 @@
 <div align="center">
-  <img src="assets/netrunner-header.svg" width="100%" alt="Alan Machado - red netrunner profile interface" />
+  <img src="assets/netrunner-header.svg" width="100%" alt="Alan Machado | Netrunner-inspired developer profile" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-VERIFIED-ff0055?style=for-the-badge&labelColor=0a060a" alt="Identity verified" />
-  <img src="https://img.shields.io/badge/OPERATING_SYSTEM-LINUX-a00038?style=for-the-badge&labelColor=0a060a" alt="Linux" />
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-ff0055?style=for-the-badge&labelColor=0a060a" alt="Online" />
+  <img src="https://img.shields.io/badge/PYTHON-FF0055?style=flat-square&labelColor=09060a" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-FF0055?style=flat-square&labelColor=09060a" alt="C++" />
+  <img src="https://img.shields.io/badge/LINUX-A00038?style=flat-square&labelColor=09060a" alt="Linux" />
 </div>
 
-### [ 01 // OPERATOR PROFILE ]
-
-> **ALAN MACHADO** / Computer Science student and software developer.
->
-> I develop software in **Python** and **C++**, with a focus on **natural language processing, systems-oriented development, and maintainable architecture**. Within the **One** organization, I work on voice-command processing, intent classification, and the components that connect user input to application behavior.
-
-```console
-alan@netrunner:~$ cat /etc/operator
-USER       alanmachadozx
-LANGUAGES  Python | C++
-FOCUS      NLP | Voice interfaces | Software architecture
-PLATFORM   Linux
-PROJECTS   One | One-classifier
-```
-
----
-
-### [ 02 // TECHNOLOGY INVENTORY ]
-
-**Core languages**
-
-![Python](https://img.shields.io/badge/Python-FF0055?style=flat-square&labelColor=080609&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-FF0055?style=flat-square&labelColor=080609&logo=cplusplus&logoColor=white)
-
-**Libraries and technologies used across One and One-classifier**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-A00038?style=flat-square&labelColor=080609) ![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-A00038?style=flat-square&labelColor=080609) ![WebRTC VAD](https://img.shields.io/badge/WebRTC_VAD-A00038?style=flat-square&labelColor=080609) 
-
-**Tools and environment**
-
-![Linux](https://img.shields.io/badge/Linux-FF0055?style=flat-square&labelColor=080609&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-FF0055?style=flat-square&labelColor=080609&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-FF0055?style=flat-square&labelColor=080609&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-FF0055?style=flat-square&labelColor=080609&logo=cmake&logoColor=white)
-
----
-
-### [ 03 // ENGINEERING CAPABILITIES ]
-
-```text
-[CORE-01]  Python application development and modular design
-[CORE-02]  C++ development and build configuration with CMake
-[CORE-03]  Speech capture, voice activity detection, and transcription
-[CORE-04]  Intent classification and TF-IDF-based text features
-[CORE-05]  Lexical analysis, parsing, and input validation
-[CORE-06]  Text tokenization, vectorization, and JSON processing
-[CORE-07]  Linux workflows, debugging, and version control
-```
-
----
-
-### [ 04 // ACTIVE OPERATIONS ]
-
-**[ONE / VOICE ASSISTANT](https://github.com/one-assist/One)**  
-Python desktop assistant that transforms spoken requests into system actions through audio processing, transcription, classification, parsing, and command execution.
-
-```text
-AUDIO CAPTURE --> VAD --> TRANSCRIPTION --> INTENT CLASSIFIER
-                                               |
-                                               v
-                                  PARSER / VALIDATOR
-                                               |
-                                               v
-                                       ACTION LAYER
-```
-
-**[ONE-CLASSIFIER / C++ EXPERIMENT](https://github.com/one-assist/One-classifier)**  
-Experimental work on text-classification components in C++, including tokenization, vectorization, CMake-based builds, and structured dataset processing. The project remains under development.
-
----
-
-### [ 05 // SIGNAL FEED ]
-
-<div align="center">
+<p align="center">
   <a href="https://in.pinterest.com/pin/45810121211764639/">
-    <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="48%" alt="Cyberpunk animation linked from Pinterest" />
+    <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="74%" alt="Cyberpunk visual" />
   </a>
-  <a href="https://tenor.com/pt-BR/view/cyberpunk-gif-22184824">
-    <img src="https://media1.tenor.com/m/k4qNm7DHgEAAAAAd/cyberpunk.gif" width="48%" alt="Cyberpunk animated GIF from Tenor" />
-  </a>
-</div>
+</p>
 
-<div align="center">
-  <sub>Visual references: <a href="https://in.pinterest.com/pin/45810121211764639/">Pinterest</a> / <a href="https://tenor.com/pt-BR/view/cyberpunk-gif-22184824">Tenor</a></sub>
-</div>
+### `01 // ABOUT`
+
+Computer Science student and software developer working with **Python**, **C++**, and **Linux**. I enjoy building practical software, understanding how systems work, and improving the way code is organized and maintained.
+
+Currently contributing to the **[One organization](https://github.com/one-assist)**.
 
 ---
 
+### `02 // TECHNOLOGY INVENTORY`
+
+**Languages & data**
+
+![Python](https://img.shields.io/badge/Python-FF0055?style=flat-square&labelColor=09060a&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF0055?style=flat-square&labelColor=09060a&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF0055?style=flat-square&labelColor=09060a)
+
+**Libraries**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-A00038?style=flat-square&labelColor=09060a)
+![NumPy](https://img.shields.io/badge/NumPy-A00038?style=flat-square&labelColor=09060a)
+![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-A00038?style=flat-square&labelColor=09060a)
+![nlohmann JSON](https://img.shields.io/badge/nlohmann_JSON-A00038?style=flat-square&labelColor=09060a)
+
+**Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FF0055?style=flat-square&labelColor=09060a&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF0055?style=flat-square&labelColor=09060a&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF0055?style=flat-square&labelColor=09060a&logo=github&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-FF0055?style=flat-square&labelColor=09060a&logo=cmake&logoColor=white)
+
+---
+
+### `03 // PROJECTS`
+
+| Repository | Description |
+|:--|:--|
+| **[One](https://github.com/one-assist/One)** | Python desktop assistant for voice-driven commands and system actions. |
+| **[One-classifier](https://github.com/one-assist/One-classifier)** | Experimental C++ project exploring text tokenization and vectorization. |
+
+<p align="center">
+  <a href="https://tenor.com/pt-BR/view/cyberpunk-gif-22184824">
+    <img src="https://media1.tenor.com/m/k4qNm7DHgEAAAAAd/cyberpunk.gif" width="60%" alt="Cyberpunk animation" />
+  </a>
+</p>
+
 <div align="center">
-  <code>// END OF TRANSMISSION // ALANMACHADOZX // CONNECTION SECURE //</code>
+  <sub><code>// END OF TRANSMISSION // ALANMACHADOZX //</code></sub>
 </div>
