@@ -33,7 +33,7 @@ PROJECTS   One | One-classifier
 
 **Libraries and technologies used across One and One-classifier**
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-A00038?style=flat-square&labelColor=080609) ![NumPy](https://img.shields.io/badge/NumPy-A00038?style=flat-square&labelColor=080609) ![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-A00038?style=flat-square&labelColor=080609) ![WebRTC VAD](https://img.shields.io/badge/WebRTC_VAD-A00038?style=flat-square&labelColor=080609) ![nlohmann JSON](https://img.shields.io/badge/nlohmann_JSON-A00038?style=flat-square&labelColor=080609)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-A00038?style=flat-square&labelColor=080609) ![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-A00038?style=flat-square&labelColor=080609) ![WebRTC VAD](https://img.shields.io/badge/WebRTC_VAD-A00038?style=flat-square&labelColor=080609) 
 
 **Tools and environment**
 
