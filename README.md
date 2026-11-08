@@ -8,12 +8,6 @@
   <img src="https://img.shields.io/badge/LINUX-A00038?style=flat-square&labelColor=09060a" alt="Linux" />
 </div>
 
-<p align="center">
-  <a href="https://in.pinterest.com/pin/45810121211764639/">
-    <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="74%" alt="Cyberpunk visual" />
-  </a>
-</p>
-
 ### `01 // ABOUT`
 
 Computer Science student and software developer working with **Python**, **C++**, and **Linux**. I enjoy building practical software, understanding how systems work, and improving the way code is organized and maintained.
@@ -54,8 +48,8 @@ Currently contributing to the **[One organization](https://github.com/one-assist
 | **[One-classifier](https://github.com/one-assist/One-classifier)** | Experimental C++ project exploring text tokenization and vectorization. |
 
 <p align="center">
-  <a href="https://tenor.com/pt-BR/view/cyberpunk-gif-22184824">
-    <img src="https://media1.tenor.com/m/k4qNm7DHgEAAAAAd/cyberpunk.gif" width="60%" alt="Cyberpunk animation" />
+  <a href="https://in.pinterest.com/pin/45810121211764639/">
+    <img src="https://i.pinimg.com/originals/7a/59/86/7a5986f10276d8cd3e666e364724054a.gif" width="74%" alt="Cyberpunk visual" />
   </a>
 </p>
 
